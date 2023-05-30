@@ -1,0 +1,2 @@
+best route: Uttara Branch -> City Bank Mirpur 12 -> City Bank Beside Uttara Diagnostic -> City Bank JFP -> City Bank Le Meridien -> City Bank Shaheed Sarani -> City Bank Airport -> City Bank Nikunja -> City Bank Narayanganj -> Uttara Branch
+ since this is the optimal route: It will take minimum amount of fuel
